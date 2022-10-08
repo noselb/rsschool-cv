@@ -6,5 +6,7 @@
 * Email: vlad.vardav@mail.ru
 * GitHub:[rsschool-cv](https://github.com/noselb) 
  ## Skills
+ * HTML
+ * CSS
  
  
