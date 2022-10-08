@@ -1,4 +1,4 @@
-[rsschool-cv]( https://github.com/ "CV")
+ [rsschool-cv](https://noselb.github.io/rsschool-cv/)
 # Vandich Vladislav
 ## Contacts
 * Location:Tyrkey
@@ -8,5 +8,19 @@
  ## Skills
  * HTML
  * CSS
+  ## Code
+  ```
+    function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+  ```
+  ## Education
+  * Brest State A. Pushkin University
+  ## English
+  * A2
  
  
+
